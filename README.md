@@ -2,15 +2,15 @@
 
 Simple Calculator
 
-Ask user to enter 2 number and choose an operation, then calculate then
+Ask user to enter 2 number and choose an operation, then calculate them
 
-Created 3 classes : 
+     Created 3 classes : 
 
-numberClass.java (initialize number & operation)
+     numberClass.java (initialize number & operation)
 
-counterClass.java (handle calculation function)
+     counterClass.java (handle calculation function)
 
-inputClass.java (handle user input)
+     inputClass.java (handle user input)
 
 ---------------------------
 Sample output in console :
