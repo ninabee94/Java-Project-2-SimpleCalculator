@@ -6,7 +6,7 @@ Ask user to enter 2 number and choose an operation, then calculate them
 
      Created 3 classes : 
 
-     numberClass.java (initialize objects)
+     numberClass.java (store variables)
 
      counterClass.java (handle calculation function)
 
